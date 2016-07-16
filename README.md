@@ -13,14 +13,14 @@ suit your club. Data entry feature for game results and player info.
 
 ---------
 Features:
--add player
--set initial player statistics
--add new game
--calculates and updates rankings
--allows you to modify player statistics
--supports one chess club only
--password system allows only administrator to modify information but anyone can view it.
--to change password, modify password configuration in chess.php.
+- add player
+- set initial player statistics
+- add new game
+- calculates and updates rankings
+- allows you to modify player statistics
+- supports one chess club only
+- password system allows only administrator to modify information but anyone can view it.
+- to change password, modify password configuration in chess.php.
 
 ---------------------------------------
 To get started, follow the steps below:
@@ -47,10 +47,10 @@ Release history:
 Date: May 23, 2008
 Author: Geoff Peters
 Changes:
--Just a couple of minor updates.
--Now works with PHP 4.1.0 and above.
--Removed requirement on php_setglobals, now can be run without setglobals.
--Fixed rounding error in $change calculation.
+- Just a couple of minor updates.
+- Now works with PHP 4.1.0 and above.
+- Removed requirement on php_setglobals, now can be run without setglobals.
+- Fixed rounding error in $change calculation.
 
 0.1.1 - First alpha release. 
 Date: March 10, 2005
